@@ -1,0 +1,5 @@
+Flask
+flask-cors
+pymupdf
+python-docx
+ollama
